@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="json-20160807">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../javalib/javalib/json-20160807.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../javalib/javalib/junit-4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../javalib/javalib/lucene-analyzers-common-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../javalib/javalib/lucene-core-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../javalib/javalib/lucene-queryparser-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../javalib/javalib/lucene-suggest-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../javalib/javalib/mysql-connector-java-5.1.40-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../javalib/javalib/servlet-api-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../javalib/javalib/spymemcached-2.12.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../javalib/javalib/jackson-core-2.8.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../javalib/javalib/jackson-databind-2.8.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../javalib/javalib/jsoup-1.10.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
